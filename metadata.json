@@ -1,0 +1,7 @@
+{
+  "name": "Pasajeros Coomoquin",
+  "description": "Sistema de gestión de transporte intermunicipal para el departamento del Quindío, permitiendo el control de flujo de pasajeros y monitoreo de flota en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
